@@ -2,6 +2,8 @@
 
 User script to auto switch theme of any public wiki that you are visiting.
 
+[OpenUserJS](https://openuserjs.org/scripts/linonetwo/Tiddlywiki_Switch_Theme)
+
 ### Feature
 
 You can config your preferred palette in the script (see "config" object in the script).
