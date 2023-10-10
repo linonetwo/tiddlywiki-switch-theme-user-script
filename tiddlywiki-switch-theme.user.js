@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          	Tiddlywiki Switch Theme
 // @description     Auto switch theme of any public wiki that you are visiting. You can config which theme to switch to. Also auto switch to dark theme when your browser is in dark scheme.
-// @version         0.0.2
+// @version         0.0.3
 // @icon https://tiddlywiki.com/favicon.ico
 // @author			Lin Onetwo <https://github.com/linonetwo/wiki>
 // @namespace       https://github.com/linonetwo
@@ -26,8 +26,8 @@
  */
 (function() {
   const config = {
-    light: ['$:/palettes/Notion', '$:/palettes/Vanilla', '$:/palettes/SnowWhite'],
-    dark: ['$:/palettes/Nord'],
+    light: ['$:/palettes/Notion', '$:/palettes/Vanilla', '$:/palettes/SolarizedLight'],
+    dark: ['$:/palettes/Nord', '$:/palettes/SolarizedDark'],
   };
 
   let waitTwCounter = 0;
