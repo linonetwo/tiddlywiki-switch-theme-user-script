@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name          	Tiddlywiki Switch Theme
 // @description     Auto switch theme of any public wiki that you are visiting. You can config which theme to switch to. Also auto switch to dark theme when your browser is in dark scheme.
-// @version         0.0.1
+// @version         0.0.2
 // @icon https://tiddlywiki.com/favicon.ico
 // @author			Lin Onetwo <https://github.com/linonetwo/wiki>
 // @namespace       https://github.com/linonetwo
 // @downloadURL		https://raw.github.com/linonetwo/tiddlywiki-switch-theme-user-script/master/tiddlywiki-switch-theme.user.js
 // @updateURL		https://raw.github.com/linonetwo/tiddlywiki-switch-theme-user-script/master/tiddlywiki-switch-theme.user.js
-// @supportURL		https://raw.github.com/linonetwo/tiddlywiki-switch-theme-user-script/issues
+// @supportURL		https://github.com/linonetwo/tiddlywiki-switch-theme-user-script/issues
 //
 // @license         MIT
 //
